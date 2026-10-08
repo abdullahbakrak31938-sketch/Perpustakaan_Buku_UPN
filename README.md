@@ -1,4 +1,4 @@
-# Sistem Peminjaman Buku Perpustakaan (PHP + MySQL)
+# Sistem Peminjaman Buku Perpustakaan 
 
 ```
 perpustakaan/
@@ -27,13 +27,6 @@ perpustakaan/
 4. Buka `database/schema.sql` di DBeaver, tekan **Alt+X** (Execute Script). Database `perpustakaan` akan terbentuk.
 5. Buka http://localhost/perpustakaan (atau http://perpustakaan.test jika auto virtual host aktif).
 6. Login dengan salah satu akun contoh:
-
-| Nama | ID anggota |
-|---|---|
-| Budi Santoso | AGT001 |
-| Siti Aminah | AGT002 |
-| Rizky Pratama | AGT003 |
-| Dewi Lestari | AGT004 |
 
 ## Aturan
 - Lama pinjam 7 hari, maksimal 3 buku sekaligus.
